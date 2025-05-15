@@ -105,7 +105,8 @@ Visit http://<ec2-ip>:8000/docs
 #here <ec2-ip> is your EC2 instance public ipv4
 
 ```
-##  Instance terminated after demo to avoid AWS charges.Shutdown (No Charges)
+##  Instance terminated after demo to avoid AWS charges.
+### Shutdown (No Charges)
 ```bash
 Terminate EC2 from AWS Console:
 EC2 Dashboard → Select Instance → Instance State → Terminate
