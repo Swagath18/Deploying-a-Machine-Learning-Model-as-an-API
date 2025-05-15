@@ -101,8 +101,8 @@ docker pull username/project-ml-api
 docker run -d -p 8000:8000 username/project-ml-api
 
 #Access your API:
-# Visit http://<ec2-ip>:8000/docs
-here <ec2-ip> is your EC2 instance public ipv4
+Visit http://<ec2-ip>:8000/docs
+#here <ec2-ip> is your EC2 instance public ipv4
 
 ```
 ##  Instance terminated after demo to avoid AWS charges.Shutdown (No Charges)
